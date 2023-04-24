@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a simple to-do list application that using **FastAPI** for the backend server, **React** for the frontend client, and **MongoDB** for the backend database server. With this application, users can create, view, and manage their to-do list items.
+This is a simple to-do list application that uses **FastAPI** for the back-end server, **React** for the front-end client, and **MongoDB** for the backend database server. With this application, users can create, view, and manage their to-do list items.
 
 ![todo-list](https://user-images.githubusercontent.com/88056536/228392149-ded1c135-fdbc-48fe-a418-a43d8b78cf62.png)
 
